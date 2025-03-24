@@ -10,7 +10,8 @@ Design and implement a Convolutional Neural Network (CNN) to classify grayscale 
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/adcff8b3-b709-46b8-9acb-f3d956f15772)
+
 
 ## DESIGN STEPS
 
