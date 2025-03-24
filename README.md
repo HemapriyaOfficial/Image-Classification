@@ -32,7 +32,7 @@ Train the model using CrossEntropyLoss and Adam optimizer over multiple epochs.
 STEP 6: 
 Test the model, compute accuracy, and analyze results using a confusion matrix and classification report.
 
-STEP 7:  
+STEP 7:
 Predict new images and display actual vs. predicted labels for visual analysis.
 
 ## PROGRAM
