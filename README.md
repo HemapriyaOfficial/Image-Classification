@@ -14,12 +14,26 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 
-### STEP 1:
-Write your own steps
+STEP 1: 
+Classify clothing items using a CNN on the FashionMNIST dataset.
 
-### STEP 2:
+STEP 2: 
+Load FashionMNIST with 60,000 training and 10,000 test images.
 
-### STEP 3:
+STEP 3: 
+Convert images to tensors, normalize, and create DataLoaders.
+
+STEP 4: 
+Design a CNN with convolution, activation, pooling, and fully connected layers.
+
+STEP 5: 
+Train the model using CrossEntropyLoss and Adam optimizer.
+
+STEP 6: 
+Test the model, compute accuracy, and analyze results with a confusion matrix.
+
+STEP 7: 
+Predict new images and display actual vs. predicted labels.
 
 
 ## PROGRAM
@@ -98,4 +112,4 @@ def train_model(model, train_loader, num_epochs=3):
 
 
 ## RESULT
-Include your result here.
+Thus, We have developed a convolutional deep neural network for image classification to verify the response for new images.
