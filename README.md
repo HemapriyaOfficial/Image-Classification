@@ -83,7 +83,7 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/57832c35-e38a-4675-ab57-9d019100b6c6)
+![image](https://github.com/user-attachments/assets/0fa5feba-bdc3-4077-afa9-693b19328509)
 
 
 ### Classification Report
@@ -94,7 +94,8 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### New Sample Data Prediction
 
-Include your sample input and output 
+![image](https://github.com/user-attachments/assets/efb1bf60-1e9a-4407-97df-ddb883dc9e79)
+
 
 ## RESULT
 Include your result here.
