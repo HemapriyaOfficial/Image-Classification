@@ -14,27 +14,26 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 
-STEP 1: 
-Classify clothing items using a CNN on the FashionMNIST dataset.
+STEP 1:
+Classify grayscale images into 10 categories using a CNN.
 
 STEP 2: 
-Load FashionMNIST with 60,000 training and 10,000 test images.
+Load the FashionMNIST dataset with 60,000 training and 10,000 test images.
 
-STEP 3: 
-Convert images to tensors, normalize, and create DataLoaders.
+STEP 3:
+Convert images to tensors, normalize, and create DataLoaders for efficient processing.
 
 STEP 4: 
-Design a CNN with convolution, activation, pooling, and fully connected layers.
+Build a CNN with convolution, activation, pooling, and fully connected layers.
 
 STEP 5: 
-Train the model using CrossEntropyLoss and Adam optimizer.
+Train the model using CrossEntropyLoss and Adam optimizer over multiple epochs.
 
 STEP 6: 
-Test the model, compute accuracy, and analyze results with a confusion matrix.
+Test the model, compute accuracy, and analyze results using a confusion matrix and classification report.
 
-STEP 7: 
-Predict new images and display actual vs. predicted labels.
-
+STEP 7:  
+Predict new images and display actual vs. predicted labels for visual analysis.
 
 ## PROGRAM
 
