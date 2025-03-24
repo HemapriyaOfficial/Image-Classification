@@ -37,8 +37,8 @@ Predict new images and display actual vs. predicted labels for visual analysis.
 
 ## PROGRAM
 
-### Name:
-### Register Number:
+### Name: HEMAPRIYA K
+### Register Number: 212223040066
 ```python
 class CNNClassifier(nn.Module):
     def __init__(self):
