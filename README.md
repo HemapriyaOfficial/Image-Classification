@@ -7,6 +7,11 @@ To Develop a convolutional deep neural network for image classification and to v
 ## Problem Statement and Dataset
 Design and implement a Convolutional Neural Network (CNN) to classify grayscale images from the FashionMNIST dataset into 10 distinct categories. The model should learn to recognize patterns and features in the images to accurately predict their respective classes.
 
+## Dataset
+
+![image](https://github.com/user-attachments/assets/997e7ad5-573b-4adc-9b55-8fa82b27bec2)
+
+
 
 ## Neural Network Model
 
